@@ -1,0 +1,43 @@
+.dbody{
+    background-color: #141414;
+    color: white;
+  
+}
+
+.navbard {
+    position:sticky;
+    background: linear-gradient(0deg, rgba(22, 21, 21, 0.829) 2%, rgba(1,1,5,1) 83%);
+    padding: 10px;
+}
+#netlogo {
+    top:4px;
+    height: 50px;
+    width: 110px;
+    margin: 10px;
+}
+
+.avatar {
+margin: 10px;
+padding: 10px
+}
+
+
+input {
+    width: 90%;
+    background-color: rgb(124, 126, 129);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-style: hidden;
+}
+
+.dovileButton {
+ margin:30px;
+ height: 70px; 
+ width: 350px;
+ border-radius: 0%;
+}
+
+input::placeholder {
+    color: white;
+}
+
